@@ -1,0 +1,11 @@
+h1 {
+   
+    border-style:groove;
+    border-width: 8px;
+    background-color:hsl(0, 0%, 80%);
+    line-height: 45px;
+   font-family: 'Lobster', cursive;
+    font-size:32px;
+    
+  
+}
